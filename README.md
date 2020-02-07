@@ -1,5 +1,8 @@
 # Zabbix template for ClickHouse
 
+  * Kasumiru: fixed bugs.
+
+
 How to set up server with Zabbix agent:
   * Ensure `xmllint` is installed.
   * Ensure `clickhouse-client` is installed.
